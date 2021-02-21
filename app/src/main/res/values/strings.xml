@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NotesApptese</string>
+    <string name="notes">As minhas notas</string>
+    <string name="notes_title">Titulo da nota</string>
+    <string name="notes_sub_title">Subtitulo da nota</string>
+    <string name="notes_desc">Descrição da nota</string>
+    <string name="web_url">Insere o link</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancelar</string>
+    <string name="storage_permission_text">Esta app precisa de acesso ao armazenamento do dispositivo.</string>
+    <string name="search">Pesquisa...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
